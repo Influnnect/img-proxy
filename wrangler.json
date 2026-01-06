@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "img-proxy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "68f67e8d-145a-4f2c-a944-aa41a243f384",
+			"database_name": "img-proxy-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
